@@ -18,7 +18,7 @@ public final class App {
         String op;
 
         Scanner in = new Scanner(System.in);
-        System.out.printf("Введите выражение: ");
+        System.out.printf("Введите выражение: "); //добавление комментария
         String str = in.nextLine();
         in.close();
 
